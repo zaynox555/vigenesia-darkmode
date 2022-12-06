@@ -173,7 +173,7 @@ class _MainScreensState extends State<MainScreens> {
                         contentPadding: EdgeInsets.only(left: 10),
                       ),
                     ),
-                    SizedBox(height: 20),
+                    SizedBox(height: 10),
                     Container(
                       width: MediaQuery.of(context).size.width,
                       child: ElevatedButton(
@@ -209,7 +209,7 @@ class _MainScreensState extends State<MainScreens> {
                           },
                           child: Text("Submit")),
                     ),
-
+                    SizedBox(height: 10),
                     TextButton(
                       child: Icon(
                         Icons.refresh,
@@ -234,6 +234,8 @@ class _MainScreensState extends State<MainScreens> {
                             .map((e) => FormBuilderFieldOption(
                                 value: e, child: Text("${e}")))
                             .toList()),
+
+                    SizedBox(height: 20),
 
                     trigger == "Motivasi By All"
                         ? FutureBuilder(
