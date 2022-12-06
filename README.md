@@ -1,16 +1,15 @@
-# vigenesia_mobile
+# vigenesia_Mobile_DarkMode
 
-A new Flutter project.
+a darkmode vigenesia
 
-## Getting Started
+## Kelompok 13
 
-This project is a starting point for a Flutter application.
+12201502 - Lintas Riandhi Ramdhan_ 12.5A.39
 
-A few resources to get you started if this is your first Flutter project:
+12201347 - Syafira reghita Cahyani_ 12.5A.39
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+12200918 - Rana Shafa Nugroho_ 12.5A.39
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+12200586 - Zayan Shaad Ousman_ 12.5A.39
+
+12201276 - Euis Syafarani Suntit_ 12.5A.39
